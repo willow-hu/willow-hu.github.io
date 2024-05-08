@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenzhe Hu"
+title                    : "Wenzhe Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Wenzhe Hu"
 description              : &description "Ph.D. student in Computer Science at Singapore Management University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://willow-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "willow-hu/willow-hu.github.io"
 
@@ -21,7 +21,7 @@ repository               : "willow-hu/willow-hu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo_square.png"
   name             : "Wenzhe Hu"
   pronouns         : "They/them"  
   bio              : # "Short biography for the left-hand sidebar"
