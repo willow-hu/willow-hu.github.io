@@ -11,9 +11,9 @@ redirect_from:
 
 I am currently an independent researcher. My research interests lie in AI and machine learning. Specifically, I am interested in how to make AI models more general to facilitate their real-world application. 
 
-I was a Ph.D. student in the School of Computing and Information Systems (SCIS) at [Singapore Management University (SMU)](https://www.smu.edu.sg/), under the supervision of [Thivya Kandappu](https://www.thivyak.info/) and [Ma Dong](https://www.dongma.info/). I also worked closely with [Guohao Lan](https://guohao.netlify.app/). My research areas were Human-Computer Interaction (HCI) and Pervasive Sensing. However, I withdrew from the PhD program because the research topic didn't match my interest. 
+I was a Ph.D. student in the School of Computing and Information Systems (SCIS) at [Singapore Management University (SMU)](https://www.smu.edu.sg/), under the supervision of [Dr. Thivya Kandappu](https://www.thivyak.info/) and [Dr. Ma Dong](https://www.dongma.info/). I also worked closely with [Dr. Guohao Lan](https://guohao.netlify.app/). My research areas were Human-Computer Interaction (HCI) and Pervasive Sensing. However, I withdrew from the PhD program because the research topic didn't match my interest. 
 
-Prior to this, I earned my Master's degree from the University of Electronic Science and Technology of China (UESTC). During my studies, I focused on Computer Vision and Vision-Language Processing in the Intelligent Vision Information Processing (IVIP) Lab, under the guidance of [Hongliang Li](https://www.sice.uestc.edu.cn/info/1450/11693.htm).
+Prior to this, I earned my Master's degree from the University of Electronic Science and Technology of China (UESTC). During my studies, I focused on Computer Vision and Vision-Language Processing in the Intelligent Vision Information Processing (IVIP) Lab, under the guidance of [Prof. Hongliang Li](https://www.sice.uestc.edu.cn/info/1450/11693.htm).
 
 # 📝 Publications
 
