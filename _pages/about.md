@@ -9,7 +9,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an independent researcher. My research interests lie in AI and machine learning. Specifically, I am interested in how to make AI models more general to facilitate their real-world application. 
+I am currently an independent researcher. My research interests lie in Human-Computer Interaction and AI. Specifically, I am interested in how to improve the usage of AI models in HCI systems.s
 
 I was a Ph.D. student in the School of Computing and Information Systems (SCIS) at [Singapore Management University (SMU)](https://www.smu.edu.sg/), under the supervision of [Dr. Thivya Kandappu](https://www.thivyak.info/) and [Dr. Ma Dong](https://www.dongma.info/). I also worked closely with [Dr. Guohao Lan](https://guohao.netlify.app/). My research areas were Human-Computer Interaction (HCI) and Pervasive Sensing. However, I chose to withdraw from the PhD program because of some personal issues. 
 
