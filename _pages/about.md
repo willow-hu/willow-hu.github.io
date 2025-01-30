@@ -30,17 +30,16 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
   Kexue Fu*, Yawen Zhang*, Hiu Man Ho, **Wenzhe Hu**, RAY LC, Qinyuan Lei, Shengdong Zhao. *Under review of TOCHI* 2024. 
 
-- **Spatial-Semantic Attention for Grounded Image Captioning**. [![PDF](https://img.shields.io/badge/PDF-blue
-)(/publications/Spatial-Semantic_Attention_for_Grounded_Image_Captioning-ICIP2022-Hu.pdf)]
+- **Spatial-Semantic Attention for Grounded Image Captioning**. [![PDF](https://img.shields.io/badge/PDF-blue)](/assets/files/Spatial-Semantic_Attention_for_Grounded_Image_Captioning-ICIP2022-Hu.pdf)
 
   **Wenzhe Hu**, Lanxiao Wang, Linfeng Xu. *ICIP* 2022. 
 
-- **What Happens in Crowd Scenes: A New Dataset About Crowd Scenes for Image Captioning**. [\[Page\]](https://img.shields.io/badge/Page-blue
-)(https://ieeexplore.ieee.org/abstract/document/9834140).
+- **What Happens in Crowd Scenes: A New Dataset About Crowd Scenes for Image Captioning**. [![Page](https://img.shields.io/badge/Page-blue
+)](https://ieeexplore.ieee.org/abstract/document/9834140).
 
   Lanxiao Wang, Hongliang Li, **Wenzhe Hu**, Xiaoliang Zhang, Heqian Qiu, Fanman Meng, Qingbo Wu. *TMM* 2022.
 
-- **A Survey of Vision and Language Related Multi-Modal Task**. [\[Page\]](https://img.shields.io/badge/Page-blue)(https://www.sciopen.com/article/10.26599/AIR.2022.9150008).
+- **A Survey of Vision and Language Related Multi-Modal Task**. [![Page](https://img.shields.io/badge/Page-blue)](https://www.sciopen.com/article/10.26599/AIR.2022.9150008).
 
   Lanxiao Wang, **Wenzhe Hu**, Heqian Qiu, Chao Shang, Taijin Zhao, Benliu Qiu, King Ngi Ngan, Hongliang Li. *CAAI Artificial Intelligence Research*, 2022.
 
