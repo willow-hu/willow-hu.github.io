@@ -1,5 +1,5 @@
 ---
-# layout: single
+layout: single
 title: "Me Beyond Academia"
 permalink: /another-me/
 author_profile: false
