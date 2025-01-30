@@ -5,7 +5,7 @@ permalink: /another-me/
 author_profile: false
 ---
 
-<img src='/images/android-chrome-512x512.png.jpg' width='150' height='150' title='My avatar!' >
+<img src='/images/android-chrome-512x512.png' width='150' height='150' title='My avatar!' >
 
 ## My MBTI
 
