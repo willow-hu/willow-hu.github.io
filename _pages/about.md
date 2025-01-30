@@ -26,25 +26,26 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
 # 📝 Publications 
 
-- [Spatial-Semantic Attention for Grounded Image Captioning](https://ieeexplore.ieee.org/abstract/document/9897578).
-  **Wenzhe Hu**, Lanxiao Wang, Linfeng Xu. *ICIP* 2022.
+- **Crafting Memorable Science Stories: Harnessing the Power of Narrative Peaks in Online Science Videos**. 
+Kexue Fu*, Yawen Zhang*, Hiu Man Ho, **Wenzhe Hu**, RAY LC, Qinyuan Lei, Shengdong Zhao. *Under review of TOCHI* 2024. 
 
-- [What Happens in Crowd Scenes: A New Dataset About Crowd Scenes for Image Captioning](https://ieeexplore.ieee.org/abstract/document/9834140).
+- **Spatial-Semantic Attention for Grounded Image Captioning**. [PDF](/publications/Spatial-Semantic_Attention_for_Grounded_Image_Captioning-ICIP2022-Hu.pdf)
+  **Wenzhe Hu**, Lanxiao Wang, Linfeng Xu. *ICIP* 2022. 
+
+- **What Happens in Crowd Scenes: A New Dataset About Crowd Scenes for Image Captioning**. [Page](https://ieeexplore.ieee.org/abstract/document/9834140).
   Lanxiao Wang, Hongliang Li, **Wenzhe Hu**, Xiaoliang Zhang, Heqian Qiu, Fanman Meng, Qingbo Wu. *TMM* 2022.
 
-- [A Survey of Vision and Language Related Multi-Modal Task](https://www.sciopen.com/article/10.26599/AIR.2022.9150008).
+- **A Survey of Vision and Language Related Multi-Modal Task**. [Page](https://www.sciopen.com/article/10.26599/AIR.2022.9150008).
   Lanxiao Wang, **Wenzhe Hu**, Heqian Qiu, Chao Shang, Taijin Zhao, Benliu Qiu, King Ngi Ngan, Hongliang Li. *CAAI Artificial Intelligence Research*, 2022.
 
 # 🚀 Projects
 
-## Gaze-Aided Low-Vision Assistance 
-  Jan 2024 - Nov 2024
+## Gaze-Aided Low-Vision Assistance  Jan 2024 - Nov 2024
 
-- Worked as the first author and project leader.
-- Aimed at designing a low-vision assistive system, which can provide assistance given the user’s gaze movements. Afterward changed to implement a visual impairment early detection system.
-- I did a comprehensive survey, read papers under various areas including ophthalmology, accessibility, HCI, and mobile computing. 
-- I conducted pilot studies and formal data collection study; Implemented a web-based interface for experiments; Collected eye movement data from participants. 
-- I extracted eye movement features; Utilized statistical analytic methods to analyze eye movement data; Designed some machine learning and deep learning-based models to classify gaze features.
+Project leader
+- Aimed at designing a low-vision assistive system, which can assist the user’s gaze movements. Afterward, it changed to implement a visual impairment early detection system. 
+- Conducted 3 pilot studies and 1 formal data collection study; Implemented a web-based interface for experiments; Arranged a schedule and collected eye movement data from 40 participants. 
+- Extracted over 20 eye movement features; Utilized many statistical analytic methods to analyze eye movement data; Designed some machine learning and deep learning-based models to classify gaze features.
 
 # 🎓 Education
 
