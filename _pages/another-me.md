@@ -2,10 +2,11 @@
 layout: single
 title: "Me Beyond Academia"
 permalink: /another-me/
-author_profile: false
+author_profile: true
+classes: wide
 ---
 
-<img src='/images/avatar.jpg' width='150' height='150' title='My avatar!' >
+<img src='/images/android-chrome-512x512.png.jpg' width='150' height='150' title='My avatar!' >
 
 ## My MBTI
 
