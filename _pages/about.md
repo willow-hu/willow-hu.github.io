@@ -28,7 +28,7 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
 - **Crafting Memorable Science Stories: Harnessing the Power of Narrative Peaks in Online Science Videos**. 
 
-  Kexue Fu*, Yawen Zhang*, Hiu Man Ho, **Wenzhe Hu**, RAY LC, Qinyuan Lei, Shengdong Zhao. *Under review of TOCHI* 2024. 
+  Kexue Fu\*, Yawen Zhang\*, Hiu Man Ho, **Wenzhe Hu**, RAY LC, Qinyuan Lei, Shengdong Zhao. *Under review of TOCHI* 2024. 
 
 - **Spatial-Semantic Attention for Grounded Image Captioning**. [![PDF](https://img.shields.io/badge/PDF-blue)](/assets/files/Spatial-Semantic_Attention_for_Grounded_Image_Captioning-ICIP2022-Hu.pdf)
 

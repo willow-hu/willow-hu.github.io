@@ -23,7 +23,7 @@ I usually use these names on social media, and I am also glad to be called by th
 
 I have a strong interest on Riichi Mahjong (Japanese Mahjong), and am eager to play it professionally as pros. 
 
-I am currently a *four-dan (四段)* player on the prestigious Riichi Mahjong platform [Tenhou](https://tenhou.net/). (ID: みかんはら)
+I am currently a *five-dan (五段)* player on the prestigious Riichi Mahjong platform [Tenhou](https://tenhou.net/). (ID: みかんはら)
 
 
 Also, I am into playing boardgames, especially funny and interesting games that can laugh together with my friends. 
