@@ -54,10 +54,10 @@ Project leader
 
 # 🎓 Education
 
-- Jan 2024 - Nov 2024, Ph.D. student in Singapore Management University (*Withdrawn*). Main supervisor: [Thivya Kandappu](https://www.thivyak.info/), Co-supervisor: [Ma Dong](https://www.dongma.info/). Area: Pervasive Sensing and Systems.
-- Sep 2020 - Jun 2023, Master of Engineering in Information and Communication Engineering, University of Electronic Science and Technology of China. Supervisor: Prof. [Hongliang Li](https://www.sice.uestc.edu.cn/info/1450/11693.htm)
+- Jan 2024 - Nov 2024, Ph.D. student in Computer Science at Singapore Management University (*Withdrawn*). Main supervisor: [Thivya Kandappu](https://www.thivyak.info/), Co-supervisor: [Ma Dong](https://www.dongma.info/). Area: Human-Machine Collaborative Systems - Pervasive Sensing and Systems.
+- Sep 2020 - Jun 2023, Master of Science in Information and Communication Engineering, University of Electronic Science and Technology of China. Supervisor: Prof. [Hongliang Li](https://www.sice.uestc.edu.cn/info/1450/11693.htm)
   Thesis: *Image Captioning Theories and Methods*
-- Jun 2020 - Sep 2016, Bachelor of Engineering in Electronic Information Engineering, University of Electronic Science and Technology of China
+- Jun 2020 - Sep 2016, Bachelor in Electronic Information Engineering, University of Electronic Science and Technology of China
 
 # 🌞 Experience
 
