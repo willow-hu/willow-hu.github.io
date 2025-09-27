@@ -19,12 +19,15 @@ I usually use these names on social media, and I am also glad to be called by th
 
 ## My Hobbies
 
+### Riichi Mahjong
+
 I have a strong interest on Riichi Mahjong (Japanese Mahjong), and am eager to play it professionally as pros. 
 
-I am currently a *five-dan (五段)* player on the prestigious Riichi Mahjong platform [Tenhou](https://tenhou.net/). (ID: みかんはら)
+I am currently a *five-dan (五段)* player on the prestigious Riichi Mahjong platform [Tenhou](https://tenhou.net/) (ID: みかんはら) and *Saint 1 (雀圣1)* player on MajSoul (ID: 柳笛willow). 
 
+### Boardgames
 
-Also, I am into playing boardgames, especially funny and interesting games that can laugh together with my friends. 
+I am into playing boardgames, especially funny and interesting games that can laugh together with my friends. 
 
 I prefer simple games, thematic games, role-playing game (RPG). My list:
 
@@ -37,6 +40,10 @@ I prefer simple games, thematic games, role-playing game (RPG). My list:
 
 As the old saying goes: The most difficult thing is to find **FRIENDS** to play...
 
-## My Life
+### Sports
 
-I got the open water (OW) diving certificate in 2020, before I learn how to swim... (Funny, isn't it? :P)
+Except for running and swimming...
+
+**Cycling** Although I am not a professional racer, I really like cycling in the city, which is super chill. My ride: Brompton C-Line 12.
+
+**Diving** I got the open water (OW) diving certificate in 2020, before I learn how to swim... (Funny, isn't it? :P)
