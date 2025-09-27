@@ -45,7 +45,8 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
 # 🚀 Projects
 
-## Gaze-Aided Low-Vision Assistance  Jan 2024 - Nov 2024
+## Gaze-Aided Low-Vision Assistance 
+*Jan 2024 - Nov 2024*
 
 Project leader
 - Aimed at designing a low-vision assistive system, which can assist the user’s gaze movements. Afterward, it changed to implement a visual impairment early detection system. 
