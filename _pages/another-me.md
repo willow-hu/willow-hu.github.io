@@ -8,7 +8,7 @@ author_profile: true
 
 ## My MBTI
 
-**INTJ**. It is pretty stable now. 
+**INTJ**. It has been pretty stable now. 
 
 ## My Pseudonyms
 
