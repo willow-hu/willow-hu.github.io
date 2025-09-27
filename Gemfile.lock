@@ -280,6 +280,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
+  jekyll (= 3.10.0)
   jekyll-feed
   jekyll-sitemap
   wdm (~> 0.1.0)
