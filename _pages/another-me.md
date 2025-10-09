@@ -1,3 +1,4 @@
+---
 layout: default
 title: "Me Beyond Academia"
 permalink: /another-me/
