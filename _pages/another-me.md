@@ -2,7 +2,7 @@
 layout: default
 title: "Me Beyond Academia"
 permalink: /another-me/
-author_profile: true
+author_profile: false
 ---
 
 <img src='/images/android-chrome-512x512.png' width='150' height='150' title='My avatar!' >
