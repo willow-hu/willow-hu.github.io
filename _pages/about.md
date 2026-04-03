@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an independent researcher. My research interests lie in the intersection of Human-Computer Interaction and AI/Deep Learning. 
+I am currently an independent researcher mentored by [Dr. Yue Li](https://imyueli.github.io/) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/). My research interests lie in the intersection of Human-Computer Interaction and AI agent/deep learning, applied to cultural heritage and gamification contexts. 
 
 I was a Ph.D. student in the School of Computing and Information Systems (SCIS) at [Singapore Management University (SMU)](https://www.smu.edu.sg/), under the supervision of [Dr. Thivya Kandappu](https://www.thivyak.info/) and [Dr. Ma Dong](https://www.dongma.info/). I also worked closely with [Dr. Guohao Lan](https://guohao.netlify.app/). My research areas were Human-Computer Interaction (HCI) and Pervasive Sensing. However, I chose to withdraw from the PhD program because of some personal issues. 
 
@@ -25,6 +25,10 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
 
 # 📝 Publications 
+
+- **Read and Reflect: Exploring How the Display of User-Generated Content Shapes In-Situ Museum Expression**. 
+  
+  **Wenzhe Hu\***, Shuran Fan\*, Yue Li. *CHI EA* 2026.
 
 - **Crafting Memorable Science Stories: Harnessing the Power of Narrative Peaks in Online Science Videos**. 
 
@@ -44,6 +48,15 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
   Lanxiao Wang, **Wenzhe Hu**, Heqian Qiu, Chao Shang, Taijin Zhao, Benliu Qiu, King Ngi Ngan, Hongliang Li. *CAAI Artificial Intelligence Research*, 2022.
 
 # 🚀 Projects
+
+## Museum UGC Display and Visitor Experience
+*Jul 2025 - Jan 2026*
+
+Project leader
+- Led a research project on UGC display design for in-situ museum expression.
+- Derived two design concerns and four display paradigms through a synthesis of prior museum UGC systems.
+- Built four interactive prototypes and evaluated them through an in-situ museum user study with inductive thematic analysis.
+- First-author paper accepted to \textit{CHI Conference on Human Factors in Computing Systems, Extended Abstracts (2026)}.
 
 ## Gaze-Aided Low-Vision Assistance 
 *Jan 2024 - Nov 2024*
