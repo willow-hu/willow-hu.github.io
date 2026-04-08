@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an independent researcher mentored by [Dr. Yue Li](https://imyueli.github.io/) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/). I am interested in how AI systems mediate and reshape human expression and creation, 
+I am currently an independent researcher mentored by [Dr. Yue Li](https://imyueli.github.io/) at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/). I am interested in designing and building agentic AI systems to facilitate personalized user experiences. My research explores how underlying technologies like deep learning and LLMs can dynamically support narrative generation and user interaction, with a current focus on cultural heritage contexts.
 
 I was a Ph.D. student in the School of Computing and Information Systems (SCIS) at [Singapore Management University (SMU)](https://www.smu.edu.sg/), under the supervision of [Dr. Thivya Kandappu](https://www.thivyak.info/) and [Dr. Ma Dong](https://www.dongma.info/). I also worked closely with [Dr. Guohao Lan](https://guohao.netlify.app/). My research areas were Human-Computer Interaction (HCI) and Pervasive Sensing. However, I chose to withdraw from the PhD program because of some personal issues. 
 
