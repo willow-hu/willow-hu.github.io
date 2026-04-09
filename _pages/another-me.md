@@ -27,9 +27,10 @@ Especially small-theater Chinese musicals. Recent watchlist:
 - 海雾 Mist Maker
 - 女巫 The Witch to Be
 - 奇美拉 Chimera
+
 ...
 
-<img src='images\musical_list.jpg' width=100 title='musical list'>
+<img src='/images/musical_list.jpg' width=100 title='musical list'>
 
 ### Sports
 
