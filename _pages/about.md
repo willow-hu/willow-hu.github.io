@@ -26,7 +26,7 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
 # 📝 Publications 
 
-- **Read and Reflect: Exploring How the Display of User-Generated Content Shapes In-Situ Museum Expression**. [![Page](https://img.shields.io/badge/Page-green)](https://dl.acm.org/doi/10.1145/3772363.3798691) [![Poster](https://img.shields.io/badge/Poster-blue)(/asset/files/Read_and_reflect-poster.pdf)]
+- **Read and Reflect: Exploring How the Display of User-Generated Content Shapes In-Situ Museum Expression**. [![Page](https://img.shields.io/badge/Page-green)](https://dl.acm.org/doi/10.1145/3772363.3798691) [![Poster](https://img.shields.io/badge/Poster-blue)](/asset/files/Read_and_reflect-poster.pdf)
   
   **Wenzhe Hu\***, Shuran Fan\*, Yue Li. *CHI EA* 2026.
 
