@@ -26,7 +26,7 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
 
 # 📝 Publications 
 
-- **Read and Reflect: Exploring How the Display of User-Generated Content Shapes In-Situ Museum Expression**. [![Page](https://img.shields.io/badge/Page-green)(https://dl.acm.org/doi/10.1145/3772363.3798691)]
+- **Read and Reflect: Exploring How the Display of User-Generated Content Shapes In-Situ Museum Expression**. [![Page](https://img.shields.io/badge/Page-green)](https://dl.acm.org/doi/10.1145/3772363.3798691) [![Poster](https://img.shields.io/badge/Poster-blue)(/asset/files/Read_and_reflect-poster.pdf)]
   
   **Wenzhe Hu\***, Shuran Fan\*, Yue Li. *CHI EA* 2026.
 
@@ -39,11 +39,11 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
   **Wenzhe Hu**, Lanxiao Wang, Linfeng Xu. *ICIP* 2022. 
 
 - **What Happens in Crowd Scenes: A New Dataset About Crowd Scenes for Image Captioning**. [![Page](https://img.shields.io/badge/Page-green
-)](https://ieeexplore.ieee.org/abstract/document/9834140).
+)](https://ieeexplore.ieee.org/abstract/document/9834140)
 
   Lanxiao Wang, Hongliang Li, **Wenzhe Hu**, Xiaoliang Zhang, Heqian Qiu, Fanman Meng, Qingbo Wu. *TMM* 2023.
 
-- **A Survey of Vision and Language Related Multi-Modal Task**. [![Page](https://img.shields.io/badge/Page-green)](https://www.sciopen.com/article/10.26599/AIR.2022.9150008).
+- **A Survey of Vision and Language Related Multi-Modal Task**. [![Page](https://img.shields.io/badge/Page-green)](https://www.sciopen.com/article/10.26599/AIR.2022.9150008)
 
   Lanxiao Wang, **Wenzhe Hu**, Heqian Qiu, Chao Shang, Taijin Zhao, Benliu Qiu, King Ngi Ngan, Hongliang Li. *CAAI Artificial Intelligence Research*, 2022.
 
