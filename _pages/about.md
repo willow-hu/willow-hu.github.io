@@ -35,7 +35,7 @@ Prior to this, I earned my Master's degree from the University of Electronic Sci
   Kexue Fu\*, Yawen Zhang\*, Hiu Man Ho, **Wenzhe Hu**, RAY LC, Qinyuan Lei, Shengdong Zhao. *Under review of TOCHI* 2024. 
 
 - **Spatial-Semantic Attention for Grounded Image Captioning**. [![Page](https://img.shields.io/badge/Page-green
-))](https://ieeexplore.ieee.org/abstract/document/9897578) [![PDF](https://img.shields.io/badge/PDF-blue)](/assets/files/Spatial-Semantic_Attention_for_Grounded_Image_Captioning-ICIP2022-Hu.pdf)
+)](https://ieeexplore.ieee.org/abstract/document/9897578) [![PDF](https://img.shields.io/badge/PDF-blue)](/assets/files/Spatial-Semantic_Attention_for_Grounded_Image_Captioning-ICIP2022-Hu.pdf)
 
   **Wenzhe Hu**, Lanxiao Wang, Linfeng Xu. *ICIP* 2022. 
 
